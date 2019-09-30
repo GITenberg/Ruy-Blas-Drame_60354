@@ -1,0 +1,35 @@
+_repo: Ruy-Blas-Drame_60354
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Victor_Hugo
+    - https://fr.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_issued: '2019-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60354'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love -- Drama'
+- !lcsh 'Indentured servants -- Drama'
+- !lcsh 'Mariana, de Neoburgo, Queen, consort of Charles II, King of Spain, 1667-1740
+  -- Drama'
+- !lcsh 'French drama -- 19th century'
+- !lcsh 'Madrid (Spain) -- Drama'
+- !lcsh 'Revenge -- Drama'
+- !lcsh 'Spain -- History -- Charles II, 1665-1700 -- Drama'
+- !lcc 'PQ'
+- GITenberg
+title: 'Ruy Blas: Drame'
+url: http://www.gutenberg.org/ebooks/60354
